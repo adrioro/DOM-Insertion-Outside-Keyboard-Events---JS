@@ -1,0 +1,14 @@
+body{
+  margin: 12px;
+}
+p {
+    color: blue;
+    margin: 5px;
+    cursor: pointer;
+  }
+  p:hover {
+    background: gray;
+  }
+  .button{
+    border:3px solid green;
+  }
