@@ -12,3 +12,8 @@ p {
   .button{
     border:3px solid green;
   }
+#boxId{
+  border:1px solid pink;
+  padding: 9px;
+  width: 100px;
+}
